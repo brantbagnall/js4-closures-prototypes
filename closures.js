@@ -256,7 +256,7 @@ function outer() {
    */
   
   function timeOutCounter() {
-    var con = []
+    var con = [];
       for (var i = 0; i <= 5; i++) {
         con.push(i);
         setTimeout(function() {
